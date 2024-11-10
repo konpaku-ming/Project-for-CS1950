@@ -8,11 +8,13 @@
 
 ##### 学习资料
 论文：
+
 https://jastt.org/index.php/jasttpath/article/view/57/20
 https://dl.acm.org/doi/epdf/10.1145/1015330.1015332
 https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2017.00009/full
 
 图书（仅作参考）：
+
 https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/weissberg%20ALR%203rd%20ed.pdf
 
 博客：
